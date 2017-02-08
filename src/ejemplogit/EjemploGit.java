@@ -16,7 +16,9 @@ public class EjemploGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Mi primer control");
+        System.out.println("Mi primer git");
+        System.out.println("Mi prueba de entrada de codigo");
+       
     }
     
 }
